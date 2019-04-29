@@ -1,5 +1,7 @@
 # Foundations-of-Software-Engineering
 
-Github Starter files for Spring-2019-cpsc-362-05.
+Reprice
 
-Please upload your documents and projects.
+Mohammadreza Hajy Heydary
+Kunal Matthews
+Don Feng
